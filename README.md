@@ -31,9 +31,16 @@ And a #serverless Slack channel:
 
 ## Landscape
 
+Graphically, the landscape looks like this:
+
 ![Serverless Landscape](https://github.com/cncf/landscape/blob/master/serverless/CloudNativeLandscape_Serverless_latest.png)
 
-You can open up suggestions and issues with the landscape here: https://github.com/cncf/landscape.
+The data behind this can be found
+[here](https://docs.google.com/spreadsheets/d/10rSQ8rMhYDgf_ib3n6kfzwEuoE88qr0amUPRxKbwVCk/edit#gid=0).
+
+You can open up suggestions and issues with the landscape picture here:
+https://github.com/cncf/landscape. For changes to the data, add a comment to
+the spreadsheet.
 
 ## Interactive Landscape
 
